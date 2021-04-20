@@ -9,11 +9,16 @@ date: 04-13-2021
 output:
   distill::distill_article:
     self_contained: false
+categories:
+  - charts
+  - analysis
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
+library(tidyverse)
+library(markdown)
 ```
 
 

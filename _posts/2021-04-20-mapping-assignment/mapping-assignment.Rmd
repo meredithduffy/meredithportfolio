@@ -7,9 +7,16 @@ author:
     url: https://example.com/meredithduffy
 date: 04-20-2021
 output:
+
   distill::distill_article:
     self_contained: false
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below I mapped four prominent D.C. locations: the Washington Monument, Tidal Basin, the Pentagon, and the White House.
 
 ```{r}
 library(readxl)
@@ -31,16 +38,5 @@ leaflet() %>%
   addMarkers(-77.0563,38.8719) %>% 
   addMarkers(-77.0385, 38.8841) %>% 
   addMarkers(-77.0365, 38.8977)
-```
-
-Above I mapped four prominent D.C. locations: the Washington Monument, Tidal Basin, the Pentagon, and the White House.
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 

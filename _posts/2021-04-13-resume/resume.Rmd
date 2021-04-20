@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 description: |
-  Meredith's credentials
+  Check out Meredith's credentials and previous work experience.
 author:
   - name: Meredith Duffy
     url: https://example.com/meredithduffy

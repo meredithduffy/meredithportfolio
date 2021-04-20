@@ -3,6 +3,7 @@ title: "My Portfolio"
 description: |
   A place for Meredith to share her work.
 output_dir: "_site"
+base_url: "https://meredithduffyportfolio.netlify.app"
 navbar:
   right:
     - text: "Home"
@@ -10,4 +11,6 @@ navbar:
     - text: "About"
       href: about.html
 output: distill::distill_article
-distill::create_post("title of post")
+collections:
+  posts: 
+    share: [twitter, linkedin, facebook]
