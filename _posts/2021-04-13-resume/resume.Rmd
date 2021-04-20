@@ -1,0 +1,16 @@
+---
+title: "Resume"
+description: |
+  Meredith's credentials
+author:
+  - name: Meredith Duffy
+    url: https://example.com/meredithduffy
+date: 04-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

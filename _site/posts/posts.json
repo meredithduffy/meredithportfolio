@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-04-13-resume/",
+    "title": "Resume",
+    "description": "Meredith's credentials",
+    "author": [
+      {
+        "name": "Meredith Duffy",
+        "url": "https://example.com/meredithduffy"
+      }
+    ],
+    "date": "2021-04-13",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-20T12:03:31-04:00",
+    "input_file": "resume.utf8.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Meredith Duffy's Portfolio",
+    "description": "A place for Meredith to share her work.",
+    "author": [
+      {
+        "name": "Meredith Duffy",
+        "url": "https://example.com/meredithduffy"
+      }
+    ],
+    "date": "2021-04-13",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-20T11:51:21-04:00",
+    "input_file": {}
+  }
+]
