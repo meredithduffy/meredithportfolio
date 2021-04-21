@@ -1,7 +1,7 @@
 ---
 title: "Plotly Assignment"
 description: |
-  An assignment I completed for an SMPA course titled "Reporting in the Digital Age". I am learning to code using R. 
+    An assignment I completed for an SMPA course titled "Reporting in the Digital Age". I am learning to code using R. 
 author:
   - name: Meredith Duffy
     url: https://example.com/meredithduffy
@@ -12,7 +12,14 @@ output:
 ---
 
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below I attempted to plot which destination airports have the most flights over 400 minutes long.
+
 ```{r}
+
 fig <- plot_ly(flights)
   x = c('dest')
   y = c('air_time' > 400)
@@ -22,14 +29,9 @@ fig <- fig %>% layout(title = "Flight Times",
          xaxis = list(title = "Airports"),
          yaxis = list (title = "Airpors with Long Flight Time In Minutes"))
 fig
+
 ```
 
-Above I attempted to plot which destination airports have the most flights over 400 minutes long.
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 Distill is a publication format for scientific and technical writing, native to the web.
 

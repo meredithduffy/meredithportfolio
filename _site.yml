@@ -11,12 +11,12 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Previous Work"
-      href: about.html
+      href: contribuors.html
       menu:
         - text: "Graphics"
-          href: about.html
+          href: publish_article.html
         - text: "Writing"
-          href: about.html
+          href: publish_.html
 output: distill::distill_article
 collections:
   posts: 

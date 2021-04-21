@@ -14,3 +14,5 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](images/Meredith%20Duffy%20Resume-01.pdf)
