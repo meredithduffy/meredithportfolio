@@ -10,6 +10,13 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Previous Work"
+      href: about.html
+      menu:
+        - text: "Graphics"
+          href: about.html
+        - text: "Writing"
+          href: about.html
 output: distill::distill_article
 collections:
   posts: 
