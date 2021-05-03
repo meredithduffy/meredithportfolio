@@ -13,4 +13,4 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](images/FocusMaine-newsletter-August-2019.jpg)
+![](images/FocusMaine-newsletter-August-2019-01.jpg)
