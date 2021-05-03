@@ -14,6 +14,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-Technical Skills: Adobe Creative Cloud, Squarespace, WordPress, Wix, SurveyMonkey, Eventbrite, NGP VAN, R
+Technical Skills
+
+Adobe Creative Cloud for graphic design and videography
+
+Website Building: Squarespace, WordPress, Wix
+
+Marketing: SurveyMonkey, Eventbrite, Tailwind
+
+NGP VAN, organzing platform for Democratic candidates
 
 
