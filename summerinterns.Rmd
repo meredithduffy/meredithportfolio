@@ -10,7 +10,7 @@ output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
-
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](images/FocusMaine-newsletter-August-2019.jpg)knitr::opts_chunk\$set(echo = FALSE)
+![](images/FocusMaine-newsletter-August-2019.jpg)
