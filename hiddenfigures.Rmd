@@ -1,0 +1,16 @@
+---
+title: "Alumna, inspiration behind 'Hidden Figures' returns to campus"
+description: |
+  An article I wrote for the GW Hatchet.
+author:
+  - name: Meredith Duffy 
+    url: https://example.com/norajones
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/Alumna,%20inspiration%20behind%20%E2%80%98Hidden%20Figures%E2%80%99%20returns%20to%20campus%20%E2%80%93%20The%20GW%20Hatchet.jpg)

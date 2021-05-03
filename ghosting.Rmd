@@ -1,0 +1,16 @@
+---
+title: "D.C. residents ranked most likely to ghost their dates, study finds"
+description: |
+    An article I wrote for the GW Hatchet.
+author:
+  - name: Meredith Duffy
+    url: https://example.com/norajones
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/D.C.%20residents%20ranked%20most%20likely%20to%20ghost%20their%20dates,%20study%20finds%20%E2%80%93%20The%20GW%20Hatchet.jpg)

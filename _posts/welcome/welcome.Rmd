@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Meredith Duffy's Portfolio"
 description: |
-  This is my first blog post! On this website I will be posting writing and graphics I've created for internships and classes.
+  Hello from my first blog post! On this website I will be posting writing and graphics I've created for internships, classes, and organizations on campus.
 author:
   - name: Meredith Duffy
     url: https://example.com/meredithduffy
@@ -10,8 +10,7 @@ output:
   distill::distill_article:
     self_contained: false
 categories:
-  - charts
-  - analysis
+  - blog
 ---
 
 ```{r setup, include=FALSE}

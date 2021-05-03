@@ -1,0 +1,22 @@
+---
+title: "Graphics for Work"
+description: |
+  Graphics created for GW Women in Business and Educate Maine.
+author:
+  - name: Meredith Duffy 
+    url: https://example.com/norajones
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/Loft%20Cover%20Photo.png)
+
+![](images/FB%201%20Week.png){width="310"}
+
+![](images/Farewell%20Event.png){width="184"}
+
+![](images/RSVP.png){width="182"}

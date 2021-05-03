@@ -1,5 +1,5 @@
 name: "meredithportfolio"
-title: "My Portfolio"
+title: "Meredith's Portfolio"
 description: |
   A place for Meredith to share her work.
 output_dir: "_site"
@@ -10,13 +10,25 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Previous Work"
-      href: contribuors.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Skills"
+      href: skills.html 
+    - text: "Work Samples"
+      href: worksamples.html
       menu:
-        - text: "Graphics"
-          href: publish_article.html
-        - text: "Writing"
-          href: publish_.html
+        - text: "Graphics for Work"
+          href: graphicsforwork.html
+        - text: "Graphics for Fun"
+          href: graphicsforfun.html
+        - text: "Alumna, inspiration behind 'Hidden Figures' returns to campus"
+          href: hiddenfigures.html
+        - text: "D.C. residents ranked most likely to ghost their dates, study finds"
+          href: ghosting.html
+        - text: "Weekend outlook - Watch a rising rapper's holiday performance"
+          href: weekendoutlook.html
+        - text: "Summer Interns Taking the State By Storm"
+          href: summerinterns.html
 output: distill::distill_article
 collections:
   posts: 

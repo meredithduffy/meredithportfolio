@@ -1,25 +1,8 @@
 [
   {
-    "path": "posts/2021-04-13-resume/",
-    "title": "Resume",
-    "description": "Check out Meredith's credentials and previous work experience.",
-    "author": [
-      {
-        "name": "Meredith Duffy",
-        "url": "https://example.com/meredithduffy"
-      }
-    ],
-    "date": "2021-04-13",
-    "categories": [],
-    "contents": "\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-04-20T20:50:57-04:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/welcome/",
     "title": "Welcome to Meredith Duffy's Portfolio",
-    "description": "This is my first blog post! On this website I will be posting writing and graphics I've created for internships and classes.",
+    "description": "Hello from my first blog post! On this website I will be posting writing and graphics I've created for internships, classes, and organizations on campus.",
     "author": [
       {
         "name": "Meredith Duffy",
@@ -28,12 +11,11 @@
     ],
     "date": "2021-04-13",
     "categories": [
-      "charts",
-      "analysis"
+      "blog"
     ],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-04-20T19:31:30-04:00",
+    "last_modified": "2021-05-03T11:43:24-04:00",
     "input_file": {}
   }
 ]

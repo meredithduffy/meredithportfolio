@@ -1,0 +1,16 @@
+---
+title: "Summer Interns Taking the State By Storm"
+description: |
+  An article I wrote for Educate Maine.
+author:
+  - name: Meredith Duffy
+    url: https://example.com/norajones
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+
+```
+
+![](images/FocusMaine-newsletter-August-2019.jpg)knitr::opts_chunk\$set(echo = FALSE)

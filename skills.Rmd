@@ -1,0 +1,19 @@
+---
+title: "Skills"
+description: |
+  My technical skills.
+author:
+  - name: Meredith Duffy
+    url: https://example.com/norajones
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Technical Skills: Adobe Creative Cloud, Squarespace, WordPress, Wix, SurveyMonkey, Eventbrite, NGP VAN, R
+
+

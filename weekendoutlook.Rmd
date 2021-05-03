@@ -1,0 +1,16 @@
+---
+title: "Weekend outlook - Watch a rising rapper's holiday performance"
+description: |
+  An article I wrote for the GW Hatchet.
+author:
+  - name: Meredith Duffy
+    url: https://example.com/norajones
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/Weekend%20outlook%20%E2%80%93%C2%A0Watch%20a%20rising%20rapper%E2%80%99s%20holiday%20performance%20%E2%80%93%20The%20GW%20Hatchet.jpg)
